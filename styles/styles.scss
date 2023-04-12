@@ -1,0 +1,323 @@
+$azul: #151B28;
+$cafe: #C08B5C;
+$celeste: #323B51;
+$gris:after #CBCDD3;
+$blanco: #ffffff;
+$grisclaro: #F6F6F7;
+$grisoscuro:#151B28;
+
+@font-face {
+    font-family: 'Montserrat','Crimson Pro', sans-serif, 'selima';
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap')
+    url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@1,300&family=Montserrat&display=swap')
+    url('https://www.dafont.com/es/selima.font');
+  }
+#header {
+    background-color: $azul;
+
+}
+.imglg {
+    width: 10rem;
+    height: 5rem;
+}
+
+.nav-link-a {
+    text-decoration: none;
+    color:$blanco;
+    font-family: 'Montserrat';
+}
+
+
+
+.carousel-inner {
+    
+    h5 {
+        font-family: 'Crimson pro';
+        font-style: italic;
+        color:$celeste;
+        font-size: 2rem;
+    }
+
+.carousel-control-prev-icon {
+    color:$celeste;
+    
+}
+
+#arrow-0 {
+    text-decoration: none;
+    color:$celeste;
+    font-size: 3rem;
+
+}
+
+#arrow {
+text-decoration: none;
+color:$celeste;
+font-size: 3rem;
+
+}
+
+#arrow-1 {
+    text-decoration: none;
+    color:$celeste;
+    font-size: 3rem;
+    
+    }
+}
+
+#book {
+    width: 11rem;
+    height: 4rem;
+    border:solid $celeste;
+    color:$cafe;
+    font-family: 'Montserrat';
+    font-style:bold;
+    
+
+}
+
+
+
+.container-words {
+
+h1 {
+    font-family: 'selima';
+    color:$grisclaro;
+    font-size: 15rem;
+    z-index: 1;
+}
+
+h2 {
+    position: relative;
+    bottom:12rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color:$grisoscuro;
+    text-align: center;
+    z-index: 2;
+
+}
+
+p { 
+    position: relative;
+    bottom:11rem;
+    font-family: 'Crimson Pro';
+    font-style: italic;
+    text-align: center;
+    font-size: 1rem;
+    color:$celeste;
+    z-index:2;
+}
+}
+.imghvr-fade{
+    background-color: $azul;
+    h3 {
+        font-family: 'Montserrat';
+        color:$cafe;
+        text-align: center;
+    }
+    p{
+        font-family: 'Crimson pro';
+        text-align: center;
+    }
+
+}
+
+.container-fluid-offers {
+  h3 {
+      font-family: 'Montserrat';
+      font-weight: bold;
+      color:$cafe;
+      font-size:1.5rem;
+      text-align: center;
+      padding-top: 5rem;
+  }
+  hr {
+      color:$cafe;
+  }
+
+}
+
+.contaner-fluid-cards {
+    height: 30rem;
+}
+.banner {
+    width: 100%;
+    z-index: 1;
+}
+
+.banner-responsive {
+    width: 100%;
+}
+
+#dishes-button-responsive {
+    position:relative;
+    left: 20rem;
+    bottom:8rem;
+    color:$cafe;
+    border:solid $cafe;
+    z-index:2;
+}
+
+#dishes-button { 
+    position:relative;
+    left: 40rem;
+    bottom:14rem;
+    color:$cafe;
+    border:solid $cafe;
+    z-index:2;
+}
+
+.container-how {
+    h1 {
+        font-family: 'Selima';
+        color:$grisclaro;
+        font-size: 15rem;
+        z-index: 1;
+    }
+    
+    h2 {
+        position: relative;
+        bottom:12rem;
+        font-family: 'Montserrat';
+        font-weight: bold;
+        color:$grisoscuro;
+        text-align: center;
+        z-index: 2;
+    
+    }
+    
+    p { 
+        position: relative;
+        bottom:11rem;
+        font-family: 'Crimson Pro';
+        font-style: italic;
+        text-align: center;
+        font-size: 1rem;
+        color:$celeste;
+        z-index:2;
+    }
+    }
+    .imghvr-fade{
+        background-color: $azul;
+        h3 {
+            font-family: 'Montserrat';
+            color:$cafe;
+            text-align: center;
+        }
+        p{
+            font-family: 'Crimson pro';
+            text-align: center;
+        }
+    
+
+}
+
+.imghvr-zoom-out {
+    background-color:$azul;
+    h3 {
+        font-family: 'Montserrat';
+        color:$cafe;
+        text-align: center;
+    }
+    p{
+        font-family: 'Crimson pro';
+        text-align: center;
+    }
+
+}
+
+footer {
+    height: 25rem;
+    hr {
+        color:$cafe;
+        z-index: 1;
+    }
+    img {
+        width: 5rem;
+        height: 5rem;
+
+    }
+    p {
+        font-family: 'Montserrat';
+        text-align: center;
+    }
+    a {
+        color:$cafe;
+    }
+}
+
+
+#big {
+    margin-top: -2%;
+
+}
+
+
+
+.navbar-toggler-icon {
+    background-color:$cafe;
+
+}
+
+.img-log {
+    width: 9rem;
+    height: 4rem;
+}
+.offcanvas {
+    background-color: $azul;
+}
+
+.btn-close {
+    background-color:$cafe;
+}
+
+.navbar-nav {
+    color:$blanco;
+    padding-bottom:20rem;
+
+}
+
+@media (min-width: 1281px) {
+
+}
+  
+    /* CSS */
+
+
+  
+  
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+
+  @media (min-width: 481px) and (max-width: 767px) {
+      
+  }
+    
+
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+   
+}
+    /* CSS */
+
+
+

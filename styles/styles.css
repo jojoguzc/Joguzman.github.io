@@ -1,0 +1,252 @@
+@font-face {
+  font-family: 'Montserrat','Crimson Pro', sans-serif, 'selima';
+  src: url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap") url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@1,300&family=Montserrat&display=swap") url("https://www.dafont.com/es/selima.font");
+}
+
+#header {
+  background-color: #151B28;
+}
+
+.imglg {
+  width: 10rem;
+  height: 5rem;
+}
+
+.nav-link-a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: 'Montserrat';
+}
+
+.carousel-inner h5 {
+  font-family: 'Crimson pro';
+  font-style: italic;
+  color: #323B51;
+  font-size: 2rem;
+}
+
+.carousel-inner .carousel-control-prev-icon {
+  color: #323B51;
+}
+
+.carousel-inner #arrow-0 {
+  text-decoration: none;
+  color: #323B51;
+  font-size: 3rem;
+}
+
+.carousel-inner #arrow {
+  text-decoration: none;
+  color: #323B51;
+  font-size: 3rem;
+}
+
+.carousel-inner #arrow-1 {
+  text-decoration: none;
+  color: #323B51;
+  font-size: 3rem;
+}
+
+#book {
+  width: 11rem;
+  height: 4rem;
+  border: solid #323B51;
+  color: #C08B5C;
+  font-family: 'Montserrat';
+  font-style: bold;
+}
+
+.container-words h1 {
+  font-family: 'selima';
+  color: #F6F6F7;
+  font-size: 15rem;
+  z-index: 1;
+}
+
+.container-words h2 {
+  position: relative;
+  bottom: 12rem;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: #151B28;
+  text-align: center;
+  z-index: 2;
+}
+
+.container-words p {
+  position: relative;
+  bottom: 11rem;
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  text-align: center;
+  font-size: 1rem;
+  color: #323B51;
+  z-index: 2;
+}
+
+.imghvr-fade {
+  background-color: #151B28;
+}
+
+.imghvr-fade h3 {
+  font-family: 'Montserrat';
+  color: #C08B5C;
+  text-align: center;
+}
+
+.imghvr-fade p {
+  font-family: 'Crimson pro';
+  text-align: center;
+}
+
+.container-fluid-offers h3 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: #C08B5C;
+  font-size: 1.5rem;
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.container-fluid-offers hr {
+  color: #C08B5C;
+}
+
+.contaner-fluid-cards {
+  height: 30rem;
+}
+
+.banner {
+  width: 100%;
+  z-index: 1;
+}
+
+.banner-responsive {
+  width: 100%;
+}
+
+#dishes-button-responsive {
+  position: relative;
+  left: 20rem;
+  bottom: 8rem;
+  color: #C08B5C;
+  border: solid #C08B5C;
+  z-index: 2;
+}
+
+#dishes-button {
+  position: relative;
+  left: 40rem;
+  bottom: 14rem;
+  color: #C08B5C;
+  border: solid #C08B5C;
+  z-index: 2;
+}
+
+.container-how h1 {
+  font-family: 'Selima';
+  color: #F6F6F7;
+  font-size: 15rem;
+  z-index: 1;
+}
+
+.container-how h2 {
+  position: relative;
+  bottom: 12rem;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: #151B28;
+  text-align: center;
+  z-index: 2;
+}
+
+.container-how p {
+  position: relative;
+  bottom: 11rem;
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  text-align: center;
+  font-size: 1rem;
+  color: #323B51;
+  z-index: 2;
+}
+
+.imghvr-fade {
+  background-color: #151B28;
+}
+
+.imghvr-fade h3 {
+  font-family: 'Montserrat';
+  color: #C08B5C;
+  text-align: center;
+}
+
+.imghvr-fade p {
+  font-family: 'Crimson pro';
+  text-align: center;
+}
+
+.imghvr-zoom-out {
+  background-color: #151B28;
+}
+
+.imghvr-zoom-out h3 {
+  font-family: 'Montserrat';
+  color: #C08B5C;
+  text-align: center;
+}
+
+.imghvr-zoom-out p {
+  font-family: 'Crimson pro';
+  text-align: center;
+}
+
+footer {
+  height: 25rem;
+}
+
+footer hr {
+  color: #C08B5C;
+  z-index: 1;
+}
+
+footer img {
+  width: 5rem;
+  height: 5rem;
+}
+
+footer p {
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+footer a {
+  color: #C08B5C;
+}
+
+#big {
+  margin-top: -2%;
+}
+
+.navbar-toggler-icon {
+  background-color: #C08B5C;
+}
+
+.img-log {
+  width: 9rem;
+  height: 4rem;
+}
+
+.offcanvas {
+  background-color: #151B28;
+}
+
+.btn-close {
+  background-color: #C08B5C;
+}
+
+.navbar-nav {
+  color: #ffffff;
+  padding-bottom: 20rem;
+}
+/*# sourceMappingURL=styles.css.map */
